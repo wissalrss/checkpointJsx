@@ -1,0 +1,9 @@
+.container{
+border:solid 1px black;max-width:100vw;
+}
+
+.title{
+    text-transform: uppercase;
+    font-weight: bold;
+}
+.red{color: red;}
